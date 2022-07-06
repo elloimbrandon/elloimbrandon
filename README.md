@@ -17,10 +17,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" alt="typing-kitty" width=200 />
-</div>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/brandonfeltz/" target="blank"><img align="center"
