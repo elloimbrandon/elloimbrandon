@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Brandon Feltz</h1>
+<h1 align="center">Hi 👋, I'm Brandon!</h1>
 <h3 align="center">Software Engineer & Web Dev</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=elloimbrandon&label=Profile%20views&color=0e75b6&style=flat"
