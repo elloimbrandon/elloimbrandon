@@ -1,14 +1,9 @@
 <h1 align="center">Hi 👋, I'm Brandon Feltz</h1>
 <h3 align="center">Software Engineer & Web Dev</h3>
 
-<br>
-<div align="center">
-  <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" alt="typing-kitty" width=200 />
-</div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=elloimbrandon&label=Profile%20views&color=0e75b6&style=flat"
     alt="elloimbrandon"/> 
   </p>
-<br>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="dev" /></p>
 <br />
@@ -21,6 +16,10 @@
 - Fun fact: I have a cat and his name is Steve French 🐈
 
 <br>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" alt="typing-kitty" width=200 />
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -65,7 +64,7 @@
 
 <br>
 
-<h3>Statistics</h3>
+<h3>Statistics:</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=elloimbrandon&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="adam-pw" 
