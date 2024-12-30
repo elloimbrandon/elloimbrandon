@@ -9,7 +9,7 @@
 <br />
 
 
-- 🌱 I Have been programming for 5 years and love to create, design, and build new things!
+- 🌱 I Have been programming for 5+ years and love to create, design, and build new things!
 
 - 📫 How to reach me: **bfeltzcode@gmail.com**
 
