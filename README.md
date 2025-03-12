@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **bfeltzcode@gmail.com**
 
-- Fun fact: I have a cat and his name is Steve French 🐈
+- Fun fact: I have a cat and his name is Steve 🐈
 
 <br>
 
